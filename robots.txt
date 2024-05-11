@@ -1,3 +1,4 @@
 User-agent: *
+Disallow: 
 Host: m.mngbook.ru
 Sitemap: https://m.mngbook.ru/sitemap.xml
