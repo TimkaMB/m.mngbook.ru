@@ -1,5 +1,3 @@
 User-agent: *
-Disallow: /css
-Disallow: /images/
-Host: mngbook.ru
+Host: m.mngbook.ru
 Sitemap: https:///sitemap.xml
