@@ -1,0 +1,36 @@
+body {
+    background-image: url("https://mngbook.ru/images/5.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+.title {
+    color: rgb(68, 58, 58);
+}
+
+.button {
+  display: inline-block;
+  background-color: rgb(154,200,35);
+  border: none;
+  color: white;
+  text-align: center;
+  font-size: 16px;
+  padding: 10px 24px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 12px;
+  text-decoration: none; /* Убираем подчеркивание */
+}
+
+.button:hover {
+  background-color: rgb(99, 190, 103);
+}
+
+.bottom {
+    position: fixed; /* Зафиксируем позицию элемента */
+    bottom: 0; /* Разместим блок внизу */
+    width: 100%; /* Сделаем блок шириной по всей странице */
+    background-color: #f0f0f0;
+    text-align: center;
+}
